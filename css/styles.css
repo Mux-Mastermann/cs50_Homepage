@@ -5,3 +5,15 @@
 .card {
   border: none;
 }
+
+.img-left {
+  max-width: 80%;
+}
+
+.jumbotron {
+  background-color: #e9edef;
+}
+
+.bold {
+  font-weight: bolder;
+}
